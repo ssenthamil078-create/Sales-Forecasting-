@@ -98,6 +98,9 @@ This approach captures the core time-series behavior similar to ARIMA and Prophe
 - Actual vs forecasted sales
 - Seasonal sales patterns
 - Markdown correlation analysis
+<img width="1892" height="735" alt="Screenshot 2026-05-10 222953" src="https://github.com/user-attachments/assets/d55586fd-2c71-443e-a811-02b990cf5cd8" />
+<img width="1881" height="421" alt="Screenshot 2026-05-10 223022" src="https://github.com/user-attachments/assets/7f42db1d-3b56-43a9-a2d2-311f02760f51" />
+<img width="1883" height="406" alt="Screenshot 2026-05-10 223011" src="https://github.com/user-attachments/assets/02765cfa-d0bb-47c2-b3a5-a57683b93aef" />
 
 ## Forecasting Result
 
@@ -121,6 +124,4 @@ This project shows that sales forecasting is highly useful for retail businesses
 **Sendhamil Selvan**  
 Artificial Intelligence and Data Science Student  
 Interested in Data Analytics, Cloud Computing, and AI Projects
-<img width="1892" height="735" alt="Screenshot 2026-05-10 222953" src="https://github.com/user-attachments/assets/d55586fd-2c71-443e-a811-02b990cf5cd8" />
-<img width="1881" height="421" alt="Screenshot 2026-05-10 223022" src="https://github.com/user-attachments/assets/7f42db1d-3b56-43a9-a2d2-311f02760f51" />
-<img width="1883" height="406" alt="Screenshot 2026-05-10 223011" src="https://github.com/user-attachments/assets/02765cfa-d0bb-47c2-b3a5-a57683b93aef" />
+
